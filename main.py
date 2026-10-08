@@ -1,4 +1,4 @@
-import maps
+import maps.valley
  
 
 inventory = []
@@ -16,4 +16,4 @@ axe = 30
 # MAP VARIABLES
 # ================================  
 
-maps.emptyMap()
+maps.valley.emptyMap()
